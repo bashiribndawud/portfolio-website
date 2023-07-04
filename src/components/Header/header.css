@@ -123,4 +123,8 @@
   .nav__list{
     grid-column-gap: 1rem;
   }
+
+  .nav__link{
+    font-size: var(--tiny-font-size);
+  }
 }
