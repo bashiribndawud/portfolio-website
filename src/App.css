@@ -112,7 +112,7 @@ img{
 
 /*============== REUSABLE CSS CLASSES =============== */
 .section__title {
-    padding: 6rem 0 2rem;
+    padding: 6rem 0 .2rem;
     color: var(--title-color)
 }
 
@@ -187,7 +187,13 @@ img{
 /* Medium Devices */
 @media screen and (max-width: 768px){
     .section{
-        padding: 2rem 0 4rem;
+        padding: 0 0 4rem;
+    }
+    body{
+        margin: 0 0 var(--header-height) 0;
+    }
+    .section__subtitle{
+        margin-bottom: var(--mb-3);
     }
 }
 
