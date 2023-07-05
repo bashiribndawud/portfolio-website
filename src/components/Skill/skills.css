@@ -77,6 +77,10 @@
         column-gap: 1.25rem;
     }
 
+    .skills__content{
+        margin: 0 1.5rem;
+    }
+
     .skills__name{
         font-size: var(--small-font-size)
     }
