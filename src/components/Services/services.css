@@ -1,6 +1,6 @@
 .services__container {
   display: grid;
-  grid-template-columns: repeat(3, 270px);
+  grid-template-columns: repeat(2, 270px);
   justify-content: center;
   column-gap: 1.8rem;
 }
@@ -73,7 +73,7 @@
   width: 500px;
   position: relative;
   background-color: var(--container-color);
-  padding: 4.5rem 2.5rem 2.5rem;
+  padding: 3rem 2rem 2rem;
   border-radius: 1.5rem;
 }
 
@@ -94,12 +94,13 @@
   font-size: var(--h3-font-size);
   font-weight: var(--font-medium);
   margin-bottom: var(--mb-1);
+
 }
 
 .services__modal-description {
   font-size: var(--small-font-size);
-  padding: 0 3.5rem;
-  margin-bottom: var(--mb-2);
+  padding: 0 0.5rem;
+  margin-bottom: 1rem;
 }
 
 .services__modal-services {
@@ -129,7 +130,7 @@
 
 @media screen and (max-width: 992px) {
   .services__container {
-    grid-template-columns: repeat(3, 218px);
+    grid-template-columns: repeat(2, 218px);
   }
   .services__modal {
     top: 40rem;

@@ -22,7 +22,7 @@ const Social = () => {
       </a>
 
       <a
-        href="https://github.com/bashiribndawud/"
+        href="https://twitter.com/BashirD18182352"
         className="home__social-icon"
         target="_blank"
         rel="noreferrer"

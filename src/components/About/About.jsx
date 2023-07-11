@@ -16,11 +16,13 @@ const About = () => {
           <Info />
 
           <p className="about__description">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis alias
-            pariatur ipsum, magni dicta nam architecto tempora voluptatum, vel
-            ullam temporibus aliquid blanditiis consequatur voluptatem libero
-            iure! Iste adipisci facilis in magni reprehenderit velit. Quaerat
-            aut ea maiores corporis quidem.
+            I am a dedicated MERN stack developer with a strong background in
+            JavaScript and expertise in MongoDB, Express.js, React.js, and
+            Node.js. I have experience working on diverse projects and enjoy
+            collaborating in dynamic teams. My portfolio showcases my skills in
+            designing intuitive user interfaces, developing efficient back-end
+            systems, and integrating APIs for seamless functionality. Let's
+            build something amazing together!
           </p>
 
           <a download="" href={CV} className="button button--flex">

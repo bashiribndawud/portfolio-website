@@ -46,12 +46,12 @@ const Qualification = () => {
             {/* Data 1 */}
             <div className="qualification__data">
               <div>
-                <h3 className="qualification__title">Web Development</h3>
+                <h3 className="qualification__title">Bsc Computer Science</h3>
                 <span className="qualification__subtitle">
-                  Spain - Institute
+                  Bayero University Kano, Nigeria
                 </span>
                 <div className="qualification__calendar">
-                  <i className="uil uil-calendar-alt"></i>2021 - Present
+                  <i className="uil uil-calendar-alt"></i>2016 - 2020
                 </div>
               </div>
 
@@ -62,7 +62,7 @@ const Qualification = () => {
             </div>
 
             {/* Data 2 */}
-            <div className="qualification__data">
+            {/* <div className="qualification__data">
               <div></div>
 
               <div>
@@ -78,10 +78,10 @@ const Qualification = () => {
                   <i className="uil uil-calendar-alt"></i>2021 - Present
                 </div>
               </div>
-            </div>
+            </div> */}
 
             {/* Data 3 */}
-            <div className="qualification__data">
+            {/* <div className="qualification__data">
               <div>
                 <h3 className="qualification__title">DB Admin</h3>
                 <span className="qualification__subtitle">
@@ -96,10 +96,10 @@ const Qualification = () => {
                 <span className="qualification__rounder"></span>
                 <span className="qualification__line"></span>
               </div>
-            </div>
+            </div> */}
 
             {/* Data 4 */}
-            <div className="qualification__data">
+            {/* <div className="qualification__data">
               <div></div>
 
               <div>
@@ -115,7 +115,7 @@ const Qualification = () => {
                   <i className="uil uil-calendar-alt"></i>2021 - Present
                 </div>
               </div>
-            </div>
+            </div> */}
           </div>
 
           {/* Second qualification content */}
@@ -129,12 +129,12 @@ const Qualification = () => {
             {/* Data 1 */}
             <div className="qualification__data ">
               <div>
-                <h3 className="qualification__title">Product Designer</h3>
-                <span className="qualification__subtitle">
-                  Microsoft - Spain
-                </span>
+                <h3 className="qualification__title">
+                  Software Developer (Intern)
+                </h3>
+                <span className="qualification__subtitle">HIIT PLC</span>
                 <div className="qualification__calendar">
-                  <i className="uil uil-calendar-alt"></i>2021 - Present
+                  <i className="uil uil-calendar-alt"></i>May 2021 - Dec 2021
                 </div>
               </div>
 
@@ -153,12 +153,12 @@ const Qualification = () => {
                 <span className="qualification__line"></span>
               </div>
               <div>
-                <h3 className="qualification__title">UX Designer</h3>
+                <h3 className="qualification__title">Software Engineer</h3>
                 <span className="qualification__subtitle">
-                  Apple Inc - Spain
+                  Scholapay, Lagos
                 </span>
                 <div className="qualification__calendar">
-                  <i className="uil uil-calendar-alt"></i>2021 - Present
+                  <i className="uil uil-calendar-alt"></i>Feb 2021 - Dec 2021
                 </div>
               </div>
             </div>
@@ -166,10 +166,12 @@ const Qualification = () => {
             {/* Data 3 */}
             <div className="qualification__data">
               <div>
-                <h3 className="qualification__title">Web Designer</h3>
-                <span className="qualification__subtitle">Figma - Spain</span>
+                <h3 className="qualification__title">Software Engineer</h3>
+                <span className="qualification__subtitle">
+                  Center for disease control
+                </span>
                 <div className="qualification__calendar">
-                  <i className="uil uil-calendar-alt"></i>2021 - Present
+                  <i className="uil uil-calendar-alt"></i>March 2022 - Aug 2022
                 </div>
               </div>
 
