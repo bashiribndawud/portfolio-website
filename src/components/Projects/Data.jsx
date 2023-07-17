@@ -4,7 +4,7 @@ import Ecomm from "../../assets/ecoomerce.png"
 export const Data = [
   {
     title: "Facebook Clone",
-    description: "Facebook UI clone built using React and tailwind",
+    description: "Facebook UI clone built using React and tailwindcss",
     coverUrl: FaceBookUI,
     demoLink: "https://facebook-ui-tailwindcss.onrender.com/",
     sourceLink: "https://github.com/bashiribndawud/facebook-ui-tailwindcss",

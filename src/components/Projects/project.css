@@ -14,8 +14,8 @@
   background-color: var(--container-color);
   border: 1px solid rgba(0, 0, 0, 0.1);
   padding: 1.5rem 1.2rem;
-  border-radius: 1.5rem;
-  margin-bottom: var(--mb-3);
+  border-radius: 1rem;
+  /* margin-bottom: var(--mb-3); */
 }
 
 .project__title {
@@ -49,7 +49,10 @@
 
 .project__description {
   font-size: var(--small-font-size);
-  margin-bottom: 2rem;
+  margin-bottom: 0.5rem;
+  width: 100%;
+  height: fit-content;
+  /* border: 1px solid; */
 }
 /* swiper class */
 .swiper-pagination-bullet {

@@ -2,6 +2,8 @@ import React from "react";
 import "./moreproject.css";
 import { Data } from "./Data";
 const MoreProjects = ({ setShowProject }) => {
+  const length = Data.slice(3).length
+  console.log(length)
   return (
     <div className="moreproject__container container">
       <div className="moreproject__conatiner">
@@ -16,6 +18,7 @@ const MoreProjects = ({ setShowProject }) => {
           {Data.slice(3).map(
             ({ description, title, coverUrl, demoLink, sourceLink }) => {
               return (
+
                 <div key={sourceLink} className="product__item">
                   <img src={coverUrl} alt="" />
                   <div className="product__items__details">
