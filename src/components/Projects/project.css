@@ -1,4 +1,4 @@
-.testimonial__container {
+.project__container {
   max-width: 768px;
   margin: 0 auto;
 }
@@ -7,10 +7,6 @@
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   column-gap: 2rem;
-}
-
-.project__card__image {
-  /* height: 14rem; */
 }
 
 .project__card {
@@ -39,6 +35,16 @@
   border-radius: 5px;
   color: #fff;
   background-color: var(--title-color);
+}
+
+.project__card__image{
+  height: 10rem;
+  width: 100%;
+  margin-bottom: 1rem;
+}
+
+.showmore-project{
+  margin-top: 1rem;
 }
 
 .project__description {
