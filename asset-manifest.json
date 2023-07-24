@@ -1,20 +1,18 @@
 {
   "files": {
-    "main.css": "/portfolio-website/static/css/main.e8158d1b.css",
-    "main.js": "/portfolio-website/static/js/main.22a54252.js",
-    "static/media/Tes4.jpg": "/portfolio-website/static/media/Tes4.8e47360fb8a28e41c441.jpg",
-    "static/media/Tes3.jpg": "/portfolio-website/static/media/Tes3.09fa4f38901b82e64477.jpg",
-    "static/media/Tes2.jpg": "/portfolio-website/static/media/Tes2.e55afcf1a6c43dfc92c7.jpg",
-    "static/media/Tes5.jpg": "/portfolio-website/static/media/Tes5.aba05d9b5c8e56439a52.jpg",
-    "static/media/Tes1.jpg": "/portfolio-website/static/media/Tes1.20cb8cea54443534ee98.jpg",
+    "main.css": "/portfolio-website/static/css/main.b30a4e60.css",
+    "main.js": "/portfolio-website/static/js/main.98a0a249.js",
+    "static/media/ecoomerce.png": "/portfolio-website/static/media/ecoomerce.9cd159c624bc0dc8d88e.png",
+    "static/media/FacebookUI.png": "/portfolio-website/static/media/FacebookUI.14a2d74735f820dddd39.png",
+    "static/media/WeatherApp.png": "/portfolio-website/static/media/WeatherApp.d4bbb9efe80e5cefb1e1.png",
     "static/media/Bashir_Dauda.pdf": "/portfolio-website/static/media/Bashir_Dauda.6d4e407738aff8f0e113.pdf",
     "static/media/Bashir.JPG": "/portfolio-website/static/media/Bashir.9e8dd117df04bc20f7c9.JPG",
     "index.html": "/portfolio-website/index.html",
-    "main.e8158d1b.css.map": "/portfolio-website/static/css/main.e8158d1b.css.map",
-    "main.22a54252.js.map": "/portfolio-website/static/js/main.22a54252.js.map"
+    "main.b30a4e60.css.map": "/portfolio-website/static/css/main.b30a4e60.css.map",
+    "main.98a0a249.js.map": "/portfolio-website/static/js/main.98a0a249.js.map"
   },
   "entrypoints": [
-    "static/css/main.e8158d1b.css",
-    "static/js/main.22a54252.js"
+    "static/css/main.b30a4e60.css",
+    "static/js/main.98a0a249.js"
   ]
 }
