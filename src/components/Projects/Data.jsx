@@ -1,6 +1,7 @@
 import WeatherAPP from "../../assets/WeatherApp.png";
 import FaceBookUI from "../../assets/FacebookUI.png"
 import Ecomm from "../../assets/ecoomerce.png"
+import GPT3 from "../../assets/GPT3.png"
 export const Data = [
   {
     title: "Facebook Clone",
@@ -25,5 +26,11 @@ export const Data = [
     demoLink: "https://effortless-piroshki-784969.netlify.app/",
     sourceLink: "https://github.com/bashiribndawud/Weather-App/",
   },
-  
+  {
+    title: "GPT Landing Page",
+    description: "GPT-3 landing page. built using React",
+    coverUrl: GPT3,
+    demoLink: "https://gptailainding.onrender.com/",
+    sourceLink: "https://github.com/bashiribndawud/gpt3website",
+  },
 ];
