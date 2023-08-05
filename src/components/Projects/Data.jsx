@@ -11,6 +11,13 @@ export const Data = [
     sourceLink: "https://github.com/bashiribndawud/facebook-ui-tailwindcss",
   },
   {
+    title: "GPT Landing Page",
+    description: "GPT-3 landing page. built using React",
+    coverUrl: GPT3,
+    demoLink: "https://gptailainding.onrender.com/",
+    sourceLink: "https://github.com/bashiribndawud/gpt3website",
+  },
+  {
     title: "Ecommerce App",
     description: "Ecommece app built using React, Material UI, Redux Toolkit",
     coverUrl: Ecomm,
@@ -25,12 +32,5 @@ export const Data = [
     coverUrl: WeatherAPP,
     demoLink: "https://effortless-piroshki-784969.netlify.app/",
     sourceLink: "https://github.com/bashiribndawud/Weather-App/",
-  },
-  {
-    title: "GPT Landing Page",
-    description: "GPT-3 landing page. built using React",
-    coverUrl: GPT3,
-    demoLink: "https://gptailainding.onrender.com/",
-    sourceLink: "https://github.com/bashiribndawud/gpt3website",
   },
 ];
